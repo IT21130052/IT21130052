@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Punardi Dahanayake
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning java,python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vinudahanayake@gmail.com
 
 <!---
